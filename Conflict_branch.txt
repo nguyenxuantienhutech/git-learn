@@ -1,1 +1,2 @@
 Sửa file lần nữa ở master và commit
+Chỉnh sửa file ở branch mới
